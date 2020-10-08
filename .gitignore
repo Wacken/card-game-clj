@@ -11,6 +11,10 @@ pom.xml.asc
 .hgignore
 .hg/
 /.idea/
+<<<<<<< HEAD
+=======
+/doc/
+>>>>>>> 56c7aa2f0c480ded4c6dba88b7069536a03b95a6
 /lib/
 .cpcache/
 /.clj-kondo/
