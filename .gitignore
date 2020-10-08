@@ -11,7 +11,9 @@ pom.xml.asc
 .hgignore
 .hg/
 /.idea/
-/CHANGELOG.md
-/LICENSE
-/doc/
-/katas.iml
+/lib/
+.cpcache/
+/.clj-kondo/
+/.cider-repl-history
+/.lsp/
+*.iml
